@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "507429120040",
+    "firebase_url": "https://sewacity-app.firebaseio.com",
+    "project_id": "sewacity-app",
+    "storage_bucket": "sewacity-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507429120040:android:c58f0365cdac2e8b08ed1d",
+        "android_client_info": {
+          "package_name": "com.sewacity.sewacity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507429120040-k2nn9s98eilf4odqeg1qsgckcialcjo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKcOVQQvFnYOuM97-N6OjY1yGGGeRwfbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507429120040-k2nn9s98eilf4odqeg1qsgckcialcjo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

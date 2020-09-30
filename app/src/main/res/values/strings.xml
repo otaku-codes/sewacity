@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sewacity</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="get_otp">Get Otp</string>
+    <string name="_91">+91</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="enter_verification_code">Enter Verification Code</string>
+    <string name="verify_now">Verify Now</string>
+</resources>
